@@ -163,7 +163,7 @@
     /* sets the font weight of the element */
     font-weight: 500;
     /* sets the font size of the element */
-    font-size: 14px;
+    font-size: 30px;
     /* sets the color of the element */
     color: var(--zinc-600);
 }
